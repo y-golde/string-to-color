@@ -1,0 +1,17 @@
+{
+    "name": "string-to-color",
+    "version": "0.1.0",
+    "description": "a function that converts strings to 'pretty' colors",
+    "main": "dist/index.js",
+    "scripts": {
+        "prepublish": "tsc",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "y-golde",
+    "license": "ISC",
+    "types": "dist/index.d.ts",
+    "devDependencies": {
+        "@types/node": "^15.0.2"
+    }
+}
