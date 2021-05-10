@@ -1,6 +1,6 @@
 {
     "name": "@y-golde/string-to-color",
-    "version": "0.1.0",
+    "version": "0.1.3",
     "description": "a function that converts strings to 'pretty' colors",
     "main": "dist/index.js",
     "scripts": {

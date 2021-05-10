@@ -1,6 +1,6 @@
 # String To Color
 
-String to color is a package that offeres _pretty_ <sup>read more</sup> colors and gradients from string.
+String to color is a package that offeres _pretty_ colors and gradients from string.
 
 ```bash
 npm i @y-golde/string-to-color
