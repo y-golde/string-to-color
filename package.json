@@ -1,5 +1,5 @@
 {
-    "name": "string-to-color",
+    "name": "@y-golde/string-to-color",
     "version": "0.1.0",
     "description": "a function that converts strings to 'pretty' colors",
     "main": "dist/index.js",
@@ -13,5 +13,9 @@
     "types": "dist/index.d.ts",
     "devDependencies": {
         "@types/node": "^15.0.2"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/y-golde/string-to-color"
     }
 }
